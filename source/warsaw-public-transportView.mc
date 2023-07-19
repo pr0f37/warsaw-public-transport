@@ -1,7 +1,7 @@
 import Toybox.Graphics;
 import Toybox.WatchUi;
 
-class warsaw-public-transportView extends WatchUi.View {
+class warsaw_public_transportView extends WatchUi.View {
 
     function initialize() {
         View.initialize();
